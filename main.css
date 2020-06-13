@@ -50,3 +50,8 @@ p {
 br {
     line-height: 5px;
  }
+
+.carousel img {
+    height: 300px;
+    object-fit: contain;
+  }
